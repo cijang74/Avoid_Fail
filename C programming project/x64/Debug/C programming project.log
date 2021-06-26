@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\cijan\Desktop\C programming project011\C programming project\main.c(140,10): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\cijan\Desktop\C programming project011\C programming project\main.c(665,31): warning C4047: '함수': 'size_t'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\cijan\Desktop\C programming project011\C programming project\main.c(665,27): warning C4024: 'malloc': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+C:\Users\cijan\Desktop\C programming project011\C programming project\main.c(665,32): warning C4311: '형식 캐스트': 'void *'에서 'int'(으)로 포인터가 잘립니다.
+C:\Users\cijan\Desktop\C programming project011\C programming project\main.c(525): warning C4716: 'PlayerContains_Socre_Item': 값을 반환해야 합니다.
+  C programming project.vcxproj -> C:\Users\cijan\Desktop\C programming project011\x64\Debug\C programming project.exe
